@@ -17,4 +17,4 @@ jobs:
         echo test, and deploy your project.
     - name: test it
       run: |
-        ls -latR /etc/*    
+        ls -latr /tmp    
